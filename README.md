@@ -47,13 +47,13 @@ Another good location would be the DC area. The East Coast has less solar energy
 
 However, some areas, like DC and San Francisco, have a much larger population compared to other parts of US, which means there are going to be much more installations. An installation rate per 10,000 people would be much more appropriate. Therefore, I produced another interactive map with the installation rate per 10,000 people, the bigger the size of the circle is the higher rate of the installation. 
 ![solar installation_screen shot4](https://cloud.githubusercontent.com/assets/14057932/16922832/e7581422-4cdc-11e6-8a43-861f8ace4817.png)
-The largest installation rate in the country is in the city of Ladera Ranch, located in South Orange County, California. I could not yet explain the reason behind it yet.
+The largest installation rate in the country is in the city of Ladera Ranch, located in South Orange County, California. Though, the reson behind it is not clear and more analysis is needed.
 
 ![solar installation_screen shot5](https://cloud.githubusercontent.com/assets/14057932/16923048/f2b515c6-4cdd-11e6-8e27-81ace27776cb.png)
 
 Buckland, MA has the highest installation on the East Coast. I can’t explain what the motivation behind it yet either. Further analysis of the household characteristics would be helpful. These two interactive maps were uploaded to <a href = "https://github.com/Geoyi/The-PV-Solar-Installation-in-US">my GitHub repository</a>, where you will be able to see the R code I wrote to process the data as well.
 
-<b>Note</b>:: I cannot guarantee the accuracy of the analysis. My results are based on two days of data mining, wrangling and analysis. The quality of the analysis is highly depended on the quality of the data and on how I understood the datasets in such limited time. A further validation of the analysis and datasets is needed.
+<b>Note</b>: I cannot guarantee the accuracy of the analysis. My results are based on two days of data mining, wrangling and analysis. The quality of the analysis is highly depended on the quality of the data and on how I understood the datasets in such limited time. A further validation of the analysis and datasets is needed.
 
 For further contact the author, please find me on: https://geoyi.org; or email me: geospatialanalystyi@gmail.com.
 
