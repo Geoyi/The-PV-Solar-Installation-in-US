@@ -35,6 +35,6 @@ More of datasets for this proposal will be downloaded from <a href = "https://en
 ### How many PV solar panels have been installed and where? 
 ![number of solar installation](https://cloud.githubusercontent.com/assets/14057932/16921453/3daf0674-4cd7-11e6-9e5c-0173837e8f5a.png)
 <i>The number of solar panels installed in the states that have been registered on NREL’s the open PV project. </i>
-There is about 500,000 installations I collected from the open PV project runs by NREL. It’s zip-code-based data, so I’ve been able to merge it to “zipcode” package on R. My R codes file is added here at my github project.
+There is about 500,000 installations I collected from the open PV project runs by NREL. It’s zip-code-based data, so I’ve been able to merge it to “zipcode” package on R. My R codes file is added here at my GitHub project.
 
-
+<b> Two interactive maps were produced on RStudio with "leaflet"</b>
