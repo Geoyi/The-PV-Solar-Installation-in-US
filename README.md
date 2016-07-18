@@ -22,12 +22,16 @@ To answer these two questions, I’ve downloaded and scraped 1670M (1.67G) datas
 More of datasets for this proposal will be downloaded from <a href = "https://energydemo.github.io/SolarDatasets/"> Department of Energy on GitHub </a> via API.
 
 ##Initial outputs 
+
+### The cost and payback period for the PV solar installation: why not go SOLAR! 
+
 ![netcost](https://cloud.githubusercontent.com/assets/14057932/16921247/56a4d79a-4cd6-11e6-8cd9-4f45eadaffcc.jpg)
 <i> Incentive program and tax credits bring down the cost of solar panel installation. This is the average costs for each state.</i>
 ![monthly saving](https://cloud.githubusercontent.com/assets/14057932/16921248/56a775f4-4cd6-11e6-8511-15d133e39a49.jpg)
 <i>Go solar would save homeowners’ spending on the utility bill. </i>
 ![payback years](https://cloud.githubusercontent.com/assets/14057932/16921249/56a79886-4cd6-11e6-8de9-7533e2cea488.jpg)
 <i>Payback years could vary from state to state. High cost does not mean a longer period of payback years, but it also highly depends on the state’s current electricity rate, state subsidy/incentive schemes.The higher the current electricity rate, the sooner you would pay back the solar panel installation. The higher the incentives from the state, the sooner you will pay off the installation cost. </i>
+
 
 
 
