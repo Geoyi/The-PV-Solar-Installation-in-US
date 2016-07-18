@@ -28,7 +28,7 @@ To answer these two questions, datasets of 1670M (1.67G) were downloaded and scr
 <i> Incentive programs and tax credits bring down the cost of solar panel installation. This is the average costs for each state.</i>
 ![monthly saving](https://cloud.githubusercontent.com/assets/14057932/16921248/56a775f4-4cd6-11e6-8511-15d133e39a49.jpg)
 <i>Going solar would save homeowners’ spending on electricity bill.</i>
-![payback years](https://cloud.githubusercontent.com/assets/14057932/16921249/56a79886-4cd6-11e6-8de9-7533e2cea488.jpg)
+![payback years](https://cloud.githubusercontent.com/assets/14057932/16932318/46eb69d8-4d0b-11e6-9907-a59210f8cc90.jpg)
 <i>Payback years vary from state to state, depending on incentives and costs. High cost does not necessarily mean a longer payback period, because it also depends on the state’s current electricity rate and state subsidy/incentive schemes. The higher the current electricity rate, the sooner you would recoup the costs of solar panel installation. The higher the incentives from the state, the sooner you will recoup the installation cost. </i>
 
 ### How many PV panels have been installed and where? 
