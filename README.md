@@ -55,5 +55,8 @@ The largest installation rate across the states is from the city called Ladera R
 Apparently,  Buckland has the highest installation on the east coast, and I can’t explain what the motivation behind it yet as well. Further analysis of the household characteristics would be helpful. 
 Two of my interactive maps were uploaded to <a href = "https://github.com/Geoyi/The-PV-Solar-Installation-in-US">my github repository</a>, and you will be able to see the R codes I wrote to process the data as well.
 
+<b>Note</b>: I could not promise the accuracy of the analysis, I only had two days from data mining, wrangling, and analysis. The quality of the analysis is highly depended on the quality of the data, or it might depend on how I understood the datasets in such limited time. A further validation of the analysis and datasets are needed.
+
+For further contact the author, please find me on: https://geoyi.org; or email me: geospatialanalystyi@gmail.com.
 
 # <i> ~~ Why not go solar!! </i>
