@@ -10,7 +10,7 @@ Photovoltaic (PV) solar panels, which convert solar energy into electricity, are
 
 ## Public Data Sources
 To answer these two questions, datasets of 1670M (1.67G) were downloaded and scraped from multiple sources:  
-(1). <a href = "http:// openEI.org"> electricity rate by zip codes</a>; 
+(1). <a href = "http:// openEI.org"> Electricity rate by zip codes</a>; 
 
 (2). <a href = "http://www.nrel.gov/gis/solar.html"> A 10km resolution of solar energy resources map</a>, in ESRI shapefile,  was downloaded the National Renewable Energy Laboratory (NREL); It was later extracted by zipcode polygon downloaded from ESRI ArcGIS online.
 
