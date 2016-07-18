@@ -38,3 +38,19 @@ More of datasets for this proposal will be downloaded from <a href = "https://en
 There is about 500,000 installations I collected from the open PV project runs by NREL. It’s zip-code-based data, so I’ve been able to merge it to “zipcode” package on R. My R codes file is added here at my GitHub project.
 
 <b> Two interactive maps were produced on RStudio with "leaflet"</b>
+![solar installation_screen shot1](https://cloud.githubusercontent.com/assets/14057932/16921880/08913938-4cd9-11e6-8b5c-3c526bd0cc01.png)
+An overview of the solar panel installation in the states from Hawaii, central, west and east coast. 
+
+![solar installation_screen shot2](https://cloud.githubusercontent.com/assets/14057932/16922044/ae91ceb0-4cd9-11e6-9ef6-dd0bb2597aff.png)
+Residents in west coast have installed about  32,000 solar panels from the data registered on the open PV project, and most of them were installed by the residents in California. When we zoomed in closely, we could easily browse through the detail installation locations around San Francisco. 
+
+![solar installation_screen shot3](https://cloud.githubusercontent.com/assets/14057932/16922307/a985e09a-4cda-11e6-8cee-114139d312f8.png)
+Another good location would be the DC area. Suprisely, east coast has less solar energy resource (kW/m2) compares to west coast especially California. However, the solar panel installations of homeowners around DC area  are very high too. From above maps, we know that because the cost of the installation is much lower, and the payback period is much faster compares to other parts of the states. It would be fascinating to dig out more information/factors behind their installation motivation. We could zoom in much more detailed locations for each installation on this interactive map. 
+
+However, some area like DC and San Francisco are having much more population compare to other parts of US, which mean there are gonna be much more installations.  An installation rate per 10,000 people would be much more appropriate.  Therefore, I produced another interactive map with the installation rate per 10,000people, the bigger the size of the circle is the higher rate of the installation. 
+![solar installation_screen shot4](https://cloud.githubusercontent.com/assets/14057932/16922832/e7581422-4cdc-11e6-8a43-861f8ace4817.png)
+The largest installation rate across the states is from the city called Ladera Ranch, located in south Orange County, California, and I could not explain the reason behind it yet.
+
+![solar installation_screen shot5](https://cloud.githubusercontent.com/assets/14057932/16923048/f2b515c6-4cdd-11e6-8e27-81ace27776cb.png)
+Apparently,  Buckland has the highest installation on the east coast, and I can’t explain what the motivation behind it yet as well. A further analysis on the household characteristics would be helpful. 
+
