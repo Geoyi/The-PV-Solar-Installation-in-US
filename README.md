@@ -32,7 +32,9 @@ More of datasets for this proposal will be downloaded from <a href = "https://en
 ![payback years](https://cloud.githubusercontent.com/assets/14057932/16921249/56a79886-4cd6-11e6-8de9-7533e2cea488.jpg)
 <i>Payback years could vary from state to state. High cost does not mean a longer period of payback years, but it also highly depends on the state’s current electricity rate, state subsidy/incentive schemes.The higher the current electricity rate, the sooner you would pay back the solar panel installation. The higher the incentives from the state, the sooner you will pay off the installation cost. </i>
 
-
-
+### How many PV solar panels have been installed and where? 
+![number of solar installation](https://cloud.githubusercontent.com/assets/14057932/16921453/3daf0674-4cd7-11e6-9e5c-0173837e8f5a.png)
+<i>The number of solar panels installed in the states that have been registered on NREL’s the open PV project. </i>
+There is about 500,000 installations I collected from the open PV project runs by NREL. It’s zip-code-based data, so I’ve been able to merge it to “zipcode” package on R. My R codes file is added here at my github project.
 
 
