@@ -56,4 +56,4 @@ Apparently,  Buckland has the highest installation on the east coast, and I canâ
 Two of my interactive maps were uploaded to <a href = "https://github.com/Geoyi/The-PV-Solar-Installation-in-US">my github repository</a>, and you will be able to see the R codes I wrote to process the data as well.
 
 
-# <i> ^.^ Why not go solar!! </i>
+# <i> ~~ Why not go solar!! </i>
