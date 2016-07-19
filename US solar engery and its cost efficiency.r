@@ -3,8 +3,8 @@
 #author: Zhuangfang Yi. Find her: https://geoyi.org.
 
 
-setwd("C:/Data Science Fundation with R/The Data Incubator_Datasets/1. US solar energy cost-effiency/1. US solar installation and cost")
-list.files("C:/Data Science Fundation with R/The Data Incubator_Datasets/1. US solar energy cost-effiency/1. US solar installation and cost")
+setwd("C:...")
+list.files("...")
 
 #loading libraries
 library(dplyr) #data wrangling
