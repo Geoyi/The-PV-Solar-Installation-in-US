@@ -1,4 +1,5 @@
 # PV Solar Installation in US: who has installed solar panel and who will be the next?
+### <i> Author: Zhuangfang Yi, Ph.D in Ecological Economics. She is an interactive infograph designer and data scientist.</i> 
 
 ##Project idea
 Photovoltaic (PV) solar panels, which convert solar energy into electricity, are one of the most attractive options for the homeowners.  Studies have shown that by 2015, there are about 4.8million homeowners had installed solar panels in the United states of America. and meanwhile, the solar energy market continues growing rapidly.  Indeed, the estimated cost and potential saving of solar is the most concerned question.  However, there is<b> a tremendous commercial potential for the solar energy business, and visualizing the long term tendency of the market is vital for the solar energy companies’ survival in the market </b>. The visualization process could be realized by examining the following aspects:  
